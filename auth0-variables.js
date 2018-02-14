@@ -1,0 +1,3 @@
+var AUTH0_CLIENT_ID='QSXTzE1fOops817Tgw7C-2ODzM9TDJUF';
+var AUTH0_DOMAIN='rntest0116.auth0.com';
+var AUTH0_CALLBACK_URL=location.href;
